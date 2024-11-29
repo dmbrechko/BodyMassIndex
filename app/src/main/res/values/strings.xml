@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BodyMassIndex</string>
+    <string name="enter_height">Enter height (sm)</string>
+    <string name="enter_weight">Enter weight (kg)</string>
+    <string name="calculate">Calculate</string>
+    <string name="wrong_input">Wrong input</string>
+    <string name="strange_height">Strange height, can\'t calculate</string>
+    <string name="strange_weight">Strange weight, can\'t calculate</string>
+    <string name="body_mass_index">Body mass index</string>
+    <string name="consistency">Consistency</string>
+    <string name="call_ambulance">Situation is critical! Call ambulance!!!</string>
+    <string name="gain_weight">To gain weight healthily, it is important to focus on nutrient-rich foods. Incorporate complex carbohydrates like whole grains and starchy vegetables into your diet. Protein sources such as lean meats, dairy products, beans, and nuts are essential for muscle growth and repair. Healthy fats from avocados, nuts, seeds, and olive oil provide energy and support overall health. Aim to eat 3–5 meals per day, including snacks in between, to increase caloric intake steadily. Regular strength training exercises can help build muscle mass and boost metabolism. Stay hydrated and get enough sleep each night. Consult a doctor or nutritionist for personalized advice based on your specific needs and health status.</string>
+    <string name="all_is_fine">You are fine! Just continue.</string>
+    <string name="lose_weight">To lose weight healthily, it is important to focus on a balanced diet and regular exercise. Incorporate more vegetables, fruits, whole grains, and lean proteins into your meals. Avoid processed foods, sugary drinks, and excessive fats. Aim for 150–300 minutes of moderate aerobic activity or 75–150 minutes of vigorous activity each week. Strength training exercises can also be beneficial for building muscle mass and boosting metabolism. Stay hydrated and get enough sleep each night. Consult a doctor or nutritionist for personalized advice based on your specific needs and health status</string>
+</resources>
